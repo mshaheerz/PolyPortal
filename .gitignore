@@ -1,0 +1,27 @@
+# PolyPortal
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Sensitive Settings & API Keys (CRITICAL)
+portal_settings.json
+
+# Output directory (Don't upload massive 3D models to github!)
+output/
+*.glb
+*.obj
+*.mtl
+*.fbx
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Gradio cache
+.gradio/

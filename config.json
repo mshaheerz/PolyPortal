@@ -1,0 +1,9 @@
+{
+  "blender_path": "C:\\Program Files\\Blender Foundation\\Blender 5.2\\blender.exe",
+  "blender_python": "C:\\Program Files\\Blender Foundation\\Blender 5.2\\5.2\\python\\bin\\python.exe",
+  "output_dir": "output",
+  "models_per_day": 1,
+  "render_resolution": [1080, 1080],
+  "export_formats": ["glb", "fbx", "obj"],
+  "render_samples": 64
+}
